@@ -51,13 +51,13 @@ const defaultMenu = {
 ┊⬡ Izanami
 ┊⬡ TioXd
 ┊⬡ Lolhuman
-┊⬡ The.sad.boy01
+┊⬡ BOTCAHX
 ┊⬡ AlyaaXd
 ┊⬡ Krizyn
 ┊⬡ ALL creator Bot
 ┗––––––––––๑
 ❏═┅═━–『 Special 』
-┊↬ Kasan: (Team)
+┊↬ Kasan: (DIRI SENDIRI:v)
 ┊↬ Danz: (Team)
 ┊↬ Saxia: (Me)
 ┊↬ User Sewa/Donasi

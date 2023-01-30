@@ -8,7 +8,7 @@ let PhoneNumber = require('awesome-phonenumber')
 const defaultMenu = {
   before: `
 ┌───────────────────⬣
-│🪴↬ Saxia˘Bot WhatsApp MD
+  |SANARA - MD|
 └┬────────────────✽  
 ┌┤⬡ *Name* : %name
 ││⬡ *Role* : %role
@@ -63,7 +63,9 @@ const defaultMenu = {
 ┊↬ User Sewa/Donasi
 ┗━═┅═━––––––⬣
 
-*Mode By Khasan*
+*%npmname@^%version*
+
+${'```%npmdesc```'}
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕
 `,
 }

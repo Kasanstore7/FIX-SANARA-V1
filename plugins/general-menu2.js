@@ -17,7 +17,7 @@ const defaultMenu = {
 ││⬡ *Tanggal Islam* : %dateIslamic
 ││⬡ *Tanggal* : %date
 ││⬡ *Waktu* : %time Asia Jakarta
-││⬡ *Hari* : %week %weton
+││⬡ *Harii* : %week %weton
 │└────────────────✽
 │⬡  *Level Naik* : %xp4levelup
 │ ⬡ *User* :  %name 
